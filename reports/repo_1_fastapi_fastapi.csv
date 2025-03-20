@@ -1,0 +1,14 @@
+Repositório,Nome do Arquivo,Caminho,Linguagem,Pontuação de Confusão,Padrões de Confusão,Comentários Suspeitos
+fastapi/fastapi,types.py,fastapi/types.py,python,10.0,1,0
+fastapi/fastapi,exception_handlers.py,fastapi/exception_handlers.py,python,5.714285714285714,1,0
+fastapi/fastapi,encoders.py,fastapi/encoders.py,python,1.744186046511628,1,4
+fastapi/fastapi,params.py,fastapi/params.py,python,1.2706480304955527,1,8
+fastapi/fastapi,test_additional_properties_bool.py,tests/test_additional_properties_bool.py,python,0.7462686567164178,0,1
+fastapi/fastapi,mkdocs_hooks.py,scripts/mkdocs_hooks.py,python,0.684931506849315,0,1
+fastapi/fastapi,test_additional_responses_custom_model_in_callback.py,tests/test_additional_responses_custom_model_in_callback.py,python,0.6535947712418301,0,1
+fastapi/fastapi,test_annotated.py,tests/test_annotated.py,python,0.6389776357827476,0,2
+fastapi/fastapi,param_functions.py,fastapi/param_functions.py,python,0.29648454044896233,0,7
+fastapi/fastapi,routing.py,fastapi/routing.py,python,0.1801801801801802,3,2
+fastapi/fastapi,test_application.py,tests/test_application.py,python,0.1557632398753894,0,2
+fastapi/fastapi,_compat.py,fastapi/_compat.py,python,0.15151515151515152,0,1
+fastapi/fastapi,applications.py,fastapi/applications.py,python,0.13083296990841692,2,2
